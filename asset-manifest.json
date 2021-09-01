@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/c4lab/static/css/main.6f931d4c.chunk.css",
-    "main.js": "/c4lab/static/js/main.1f18a044.chunk.js",
-    "main.js.map": "/c4lab/static/js/main.1f18a044.chunk.js.map",
+    "main.css": "/c4lab/static/css/main.8c3d1b5b.chunk.css",
+    "main.js": "/c4lab/static/js/main.c73064a8.chunk.js",
+    "main.js.map": "/c4lab/static/js/main.c73064a8.chunk.js.map",
     "runtime-main.js": "/c4lab/static/js/runtime-main.14f6e557.js",
     "runtime-main.js.map": "/c4lab/static/js/runtime-main.14f6e557.js.map",
     "static/css/2.c1d1a6c5.chunk.css": "/c4lab/static/css/2.c1d1a6c5.chunk.css",
@@ -12,17 +12,20 @@
     "static/js/3.76c189cb.chunk.js.map": "/c4lab/static/js/3.76c189cb.chunk.js.map",
     "index.html": "/c4lab/index.html",
     "static/css/2.c1d1a6c5.chunk.css.map": "/c4lab/static/css/2.c1d1a6c5.chunk.css.map",
-    "static/css/main.6f931d4c.chunk.css.map": "/c4lab/static/css/main.6f931d4c.chunk.css.map",
+    "static/css/main.8c3d1b5b.chunk.css.map": "/c4lab/static/css/main.8c3d1b5b.chunk.css.map",
     "static/js/2.cb6a9d6c.chunk.js.LICENSE.txt": "/c4lab/static/js/2.cb6a9d6c.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/c4lab/static/media/yellow-pin.3301adb9.svg",
     "static/media/calling-video.2fc739dc.mp4": "/c4lab/static/media/calling-video.2fc739dc.mp4",
+    "static/media/drone-footage.e92911fa.mp4": "/c4lab/static/media/drone-footage.e92911fa.mp4",
+    "static/media/lobby.5aeb62ed.mp4": "/c4lab/static/media/lobby.5aeb62ed.mp4",
+    "static/media/rct-entrance.1ea607e2.mp4": "/c4lab/static/media/rct-entrance.1ea607e2.mp4",
     "static/media/rotate_spin.280ec0e4.svg": "/c4lab/static/media/rotate_spin.280ec0e4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.14f6e557.js",
     "static/css/2.c1d1a6c5.chunk.css",
     "static/js/2.cb6a9d6c.chunk.js",
-    "static/css/main.6f931d4c.chunk.css",
-    "static/js/main.1f18a044.chunk.js"
+    "static/css/main.8c3d1b5b.chunk.css",
+    "static/js/main.c73064a8.chunk.js"
   ]
 }
